@@ -1,2 +1,2 @@
 # Java-Doubly-Linked-List
-Created a doubly linked list using StdDraw. 
+Created a doubly linked list example. 
